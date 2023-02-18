@@ -1,0 +1,17 @@
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ControlArchivos.csproj.AssemblyReference.cache
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ControlArchivos.Form1.resources
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ControlArchivos.csproj.GenerateResource.cache
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ControlArchivos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ControlArchivos.AssemblyInfoInputs.cache
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ControlArchivos.AssemblyInfo.cs
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ControlArchivos.csproj.CoreCompileInputs.cache
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\bin\Debug\net6.0-windows\ControlArchivos.exe
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\bin\Debug\net6.0-windows\ControlArchivos.deps.json
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\bin\Debug\net6.0-windows\ControlArchivos.runtimeconfig.json
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\bin\Debug\net6.0-windows\ControlArchivos.dll
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\bin\Debug\net6.0-windows\ControlArchivos.pdb
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ControlArchivos.dll
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\refint\ControlArchivos.dll
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ControlArchivos.pdb
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ControlArchivos.genruntimeconfig.cache
+E:\Proyectos C sharp\ControlArchivos\ControlArchivos\obj\Debug\net6.0-windows\ref\ControlArchivos.dll
